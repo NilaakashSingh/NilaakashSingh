@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 
 ### StackOverflow:
 <p>
-<a href="https://stackoverflow.com/users/6863742/nilaakash-singh"><img src="https://stackoverflow.com/users/flair/3683245.png?&theme=dark" width="208" height="58" alt="Kalpesh Talkar on Stackoverflow"></a>
+<a href="https://stackoverflow.com/users/6863742/nilaakash-singh"><img src="https://stackoverflow.com/users/flair/3683245.png?&theme=dark" width="208" height="58" alt="Nilaakash Singh on Stackoverflow"></a>
 </p>
