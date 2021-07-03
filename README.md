@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <a href="https://developer.apple.com/tutorials/swiftui" target="_blank"><b>SwiftUI</b></a>
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/nilaakashsingh" target="_blank"><b>GitHub</b></a>
 - 💬 Ask me about **iOS, Android, Swift, Objective C, Java, Kotlin, XCFramework, Certificate Pinning, Adaptive Media Streaming, DRM, ExoPlayer**
-- 📫 How to reach me: **Drop me a note on: kalpeshtalkar@gmail.com**
+- 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**
 
 ### My Open Source Projects:
 <a href="https://github.com/kalpeshtalkar/kuikit" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpeshtalkar&repo=kuikit&theme=dracula"></a>
