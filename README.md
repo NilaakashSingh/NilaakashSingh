@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilaakashsingh&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nilaakashsingh"/>
-<img src="https://github-readme-stats.vercel.app/api?username=kalpeshtalkar&show_icons=true&locale=en&theme=dracula" alt="nilaakashsingh"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nilaakashsingh&show_icons=true&locale=en&theme=dracula" alt="nilaakashsingh"/>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilaakashsingh&theme=dracula" alt="nilaakashsingh"/></p>
 
 
