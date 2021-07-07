@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**
 
 ### My Open Source Projects:
-<a href="https://github.com/kalpeshtalkar/kuikit" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpeshtalkar&repo=kuikit&theme=dracula"></a>
+<a href="https://github.com/NilaakashSingh/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
 <br>
 <a href="https://github.com/kalpeshtalkar/krecyclerviewadapter" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpeshtalkar&repo=krecyclerviewadapter&theme=dracula"></a>
 <br>
