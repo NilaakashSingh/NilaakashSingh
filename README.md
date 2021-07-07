@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### My Open Source Projects:
 <a href="https://github.com/NilaakashSingh/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
 <br>
-<a href="https://github.com/kalpeshtalkar/krecyclerviewadapter" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpeshtalkar&repo=krecyclerviewadapter&theme=dracula"></a>
+<a href="https://github.com/kalpeshtalkar/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
 <br>
 <a href="https://github.com/kalpeshtalkar/kpageindicator" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpeshtalkar&repo=kpageindicator&theme=dracula"></a>
 
