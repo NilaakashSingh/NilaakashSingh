@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Nilaakash
 ### A passionate mobile app developer from India</h3>
-[![Years](https://badges.pufler.dev/years/kalpeshtalkar)](https://github.com/nilaakashsingh) [![Repos](https://badges.pufler.dev/repos/nilaakashsingh)](https://github.com/nilaakashsingh?tab=repositories) [![Gists](https://badges.pufler.dev/gists/nilaakashsingh)](https://gist.github.com/nilaakashsingh)
+[![Years](https://badges.pufler.dev/years/nilaakashsingh)](https://github.com/nilaakashsingh) [![Repos](https://badges.pufler.dev/repos/nilaakashsingh)](https://github.com/nilaakashsingh?tab=repositories) [![Gists](https://badges.pufler.dev/gists/nilaakashsingh)](https://gist.github.com/nilaakashsingh)
 
 ![Contact Card](./contact-card.png)
 
