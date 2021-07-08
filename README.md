@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilaakashsingh" alt="nilaakashsingh" /></a> </p>-->
 
 - 🔭 I’m currently working at <b>Deloitte Digital</b></a>
-- 🌱 I’m currently learning <a href="https://developer.apple.com/tutorials/swiftui" target="_blank"><b>SwiftUI</b></a>
+- 🌱 I’m currently learning <a href="https://flutter.dev/docs" target="_blank"><b>Flutter</b></a>
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/nilaakashsingh" target="_blank"><b>GitHub</b></a>
-- 💬 Ask me about **iOS, Android, Swift, Objective C, Java, Kotlin, XCFramework, Certificate Pinning, Adaptive Media Streaming, DRM, ExoPlayer**
+- 💬 Ask me about **iOS, Android, Swift, Objective C, Kotlin, Dart, XCFramework, SwiftUI, Cocoa Touch, Accessibility**
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**
 
 ### My Open Source Projects:
