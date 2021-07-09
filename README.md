@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ### A passionate mobile app developer from India</h3>
 [![Years](https://badges.pufler.dev/years/nilaakashsingh)](https://github.com/nilaakashsingh) [![Repos](https://badges.pufler.dev/repos/nilaakashsingh)](https://github.com/nilaakashsingh?tab=repositories) [![Gists](https://badges.pufler.dev/gists/nilaakashsingh)](https://gist.github.com/nilaakashsingh)
 
-![Contact Card](./contact-card.png)
-
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilaakashsingh" alt="nilaakashsingh" /></a> </p>-->
 
 - 🔭 I’m currently working at <b>Deloitte Digital</b></a>
@@ -27,6 +25,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **iOS, Android, Swift, Objective C, Kotlin, Dart, XCFramework, SwiftUI, Cocoa Touch, Accessibility**
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**
 - 😄 Pronouns: Neel.
+
+<!--[Contact Card](./contact-card.png)-->
 
 ### My Open Source Projects:
 <a href="https://github.com/NilaakashSingh/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
