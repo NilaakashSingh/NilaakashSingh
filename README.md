@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/nilaakashsingh" target="_blank"><b>GitHub</b></a>
 - 💬 Ask me about **iOS, Android, Swift, Objective C, Kotlin, Dart, XCFramework, SwiftUI, Cocoa Touch, Accessibility**
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**
+- 😄 Pronouns: Neel.
 
 ### My Open Source Projects:
 <a href="https://github.com/NilaakashSingh/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
