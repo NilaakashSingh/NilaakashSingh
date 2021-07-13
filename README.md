@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 <a href="https://github.com/NilaakashSingh/CombineConcepts" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=CombineConcepts&theme=dracula"></a>
 <br>
-<a href="https://github.com/NilaakashSingh/SwiftUI2021" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpeshtalkar&repo=SwiftUI2021&theme=dracula"></a>
+<a href="https://github.com/NilaakashSingh/SwiftUI2021" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashSingh&repo=SwiftUI2021&theme=dracula"></a>
 <br>
 
 ### Other Open Source Contributions:
