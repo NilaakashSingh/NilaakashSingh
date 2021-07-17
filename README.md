@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ My Expertise are <b>SwiftUI, Combine, Architecture, UIKIT, Swift</b></a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/docs" target="_blank"><b>Flutter</b></a>
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/nilaakashsingh" target="_blank"><b>GitHub</b></a>
-- 💬 Ask me about **iOS, Swift, SwiftUI, Combine, Async Await, Objective C, Kotlin, Dart, XCFramework, Cocoa Touch, Accessibility, Android**
+- 💬 Ask me about **iOS, Swift, SwiftUI, Combine, Async Await, Objective C, XCFramework, XCUnitTest, CocoaTouch, Accessibility, Flutter, Dart, Android, Kotlin**
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**
 - 😄 Pronouns: Neel.
 
