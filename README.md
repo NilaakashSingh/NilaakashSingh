@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilaakashsingh" alt="nilaakashsingh" /></a> </p>-->
 
-- 🔭 I’m currently working at <b>Deloitte Studios</b></a>.
+- 🔭 I’m currently working at <b>IG Group</b></a>.
 - ⚡ My Expertise are <b>SwiftUI, Combine, Swift Async, Mobile Architecture, UIKIT, Swift</b></a>.
 - 🌱 I’m currently learning <a href="https://flutter.dev/docs" target="_blank"><b>Flutter</b></a>.
 - 👨‍💻 All of my projects are available on my <a href="https://github.com/nilaakashsingh" target="_blank"><b>GitHub</b></a>.
