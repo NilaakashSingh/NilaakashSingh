@@ -1,5 +1,4 @@
 # Hi 👋, I'm Nilaakash
-### A passionate mobile app developer from India 🇮🇳</h3>
 [![Years](https://badges.pufler.dev/years/nilaakashsingh)](https://github.com/nilaakashsingh) [![Repos](https://badges.pufler.dev/repos/nilaakashsingh)](https://github.com/nilaakashsingh?tab=repositories) [![Gists](https://badges.pufler.dev/gists/nilaakashsingh)](https://gist.github.com/nilaakashsingh)
 
 - 🔭 I’m currently working at <b>IG Group</b></a>.
@@ -9,6 +8,12 @@
 - 💬 Ask me about **iOS, Swift, SwiftUI, Combine, Async Await, Objective C, XCFramework, XCUnitTest, CocoaTouch, Accessibility, Flutter, Dart, Android, Kotlin**.
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**.
 - 😄 Pronouns: Neel.
+
+### Contact:
+<!-- Mail --><a href="mailto://singhnilaakash@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="iOS"/></a><!-- Telegram --><a href="https://t.me/nilaakashSingh" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
+### Connect with me:
+<!-- LinkedIn --><a href="https://www.linkedin.com/in/nilaakash-singh-79a386b2" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><!-- Twitter --><a href="https://twitter.com/NilaakashSingh" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a><!-- StackOverflow --><a href="https://stackoverflow.com/users/6863742/nilaakash-singh" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a><!-- GitHub --><a href="https://github.com/nilaakashsingh" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 ### My Open Source Projects:
 <a href="https://github.com/NilaakashSingh/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
@@ -30,9 +35,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilaakashsingh&show_icons=true&locale=en&layout=compact&theme=dracula" alt="nilaakashsingh"/>
 <img src="https://github-readme-stats.vercel.app/api?username=nilaakashsingh&show_icons=true&locale=en&theme=dracula" alt="nilaakashsingh"/>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nilaakashsingh&theme=dracula" alt="nilaakashsingh"/></p>
-
-### Connect with me:
-<!-- LinkedIn --><a href="https://www.linkedin.com/in/nilaakash-singh-79a386b2" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><!-- Twitter --><a href="https://twitter.com/NilaakashSingh" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a><!-- StackOverflow --><a href="https://stackoverflow.com/users/6863742/nilaakash-singh" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a><!-- GitHub --><a href="https://github.com/nilaakashsingh" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-### Contact:
-<!-- Mail --><a href="mailto://singhnilaakash@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="iOS"/></a><!-- Telegram --><a href="https://t.me/nilaakashSingh" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
