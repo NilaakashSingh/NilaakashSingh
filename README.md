@@ -1,23 +1,6 @@
-<!--
-**NilaakashSingh/NilaakashSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi 👋, I'm Nilaakash
 ### A passionate mobile app developer from India 🇮🇳</h3>
 [![Years](https://badges.pufler.dev/years/nilaakashsingh)](https://github.com/nilaakashsingh) [![Repos](https://badges.pufler.dev/repos/nilaakashsingh)](https://github.com/nilaakashsingh?tab=repositories) [![Gists](https://badges.pufler.dev/gists/nilaakashsingh)](https://gist.github.com/nilaakashsingh)
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilaakashsingh" alt="nilaakashsingh" /></a> </p>-->
 
 - 🔭 I’m currently working at <b>IG Group</b></a>.
 - ⚡ My Expertise are <b>SwiftUI, Combine, Swift Async, Mobile Architecture, UIKIT, Swift</b></a>.
@@ -26,8 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **iOS, Swift, SwiftUI, Combine, Async Await, Objective C, XCFramework, XCUnitTest, CocoaTouch, Accessibility, Flutter, Dart, Android, Kotlin**.
 - 📫 How to reach me: **Drop me a note on: singhnilaakash@gmail.com**.
 - 😄 Pronouns: Neel.
-
-<!--[Contact Card](./contact-card.png)-->
 
 ### My Open Source Projects:
 <a href="https://github.com/NilaakashSingh/Expandable_List" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=nilaakashsingh&repo=Expandable_List&theme=dracula"></a>
